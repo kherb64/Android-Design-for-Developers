@@ -1,0 +1,3 @@
+Design for small  screens first. Later on add elements for larger screens, if any.
+
+Stick to 4 common dp-buckets: MDPI, HDPI, XHDPI, XXHDPI when designing graphics. Check Andoird Asset Studio as a toolbox.
